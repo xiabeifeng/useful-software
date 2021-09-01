@@ -24,6 +24,7 @@ SwitchHosts
 
 FSCapture
 
+UPX（可执行程序文件压缩器）
 
 # 浏览器
 Google Chrome
